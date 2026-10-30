@@ -23,8 +23,7 @@ This repository contains code, notebooks, and data for reproducing experiments o
 ---
 
 ## Authors
-- **Dasari Sai Harsh** (2022144) — dasari22144@iiitd.ac.in  
-- **Avi Sharma** (2022119) — avi22119@iiitd.ac.in  
+- **Aditya K Jaiswal** (2023039) - aditya23039@iiitd.ac.in
 - **Parth Sandeep Rastogi** (2022352) — parth22352@iiitd.ac.in
 
 ## Abstract
