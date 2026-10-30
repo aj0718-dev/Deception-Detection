@@ -6,3 +6,5 @@ venv/
 .env
 checkpoints/
 wandb/
+3_ppt.pdf
+Report.pdf
